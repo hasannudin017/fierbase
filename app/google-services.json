@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "270173829443",
+    "firebase_url": "https://fir-crud-48cbb-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "fir-crud-48cbb",
+    "storage_bucket": "fir-crud-48cbb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270173829443:android:dfca65336ccdfec0edd7f6",
+        "android_client_info": {
+          "package_name": "com.retno.crudfierbase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvnVj4vVRXxybIq8ARgxROQJFSsXGlYZ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
